@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/tjohn123/test-project-1/_apis/build/status/tjohn123456.pipelines-javascript?branchName=master)](https://dev.azure.com/tjohn123/test-project-1/_build/latest?definitionId=2&branchName=master)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
