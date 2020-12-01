@@ -1,7 +1,7 @@
 {
-  "name": "HelloWorld",
+  "name": "@simplyjoe/private-package",
   "private": true,
-  "version": "0.0.0",
+  "version": "2.0.0",
   "description": "Hello World",
   "main": "server.js",
   "author": {
