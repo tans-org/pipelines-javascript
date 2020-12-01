@@ -1,6 +1,5 @@
 {
   "name": "@simplyjoe/private-package",
-  "private": true,
   "version": "2.0.0",
   "description": "Hello World",
   "main": "server.js",
